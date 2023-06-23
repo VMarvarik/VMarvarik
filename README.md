@@ -11,9 +11,9 @@
 - [Kanban](https://github.com/VMarvarik/java-kanban) - Приложение для организации совместной работы над задачами. Программа позволяет выполнять CRUD-операции над задачами. Сами задачи делятся на разные типы: общие, подзадачи и эпики.
 
 ##
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Feirina&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VMarvarik&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feirina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VMarvarik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VMarvarik/VMarvarik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
